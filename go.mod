@@ -1,3 +1,3 @@
-module gitlab.tanasoft.mn/ft3/common
+module github.com/tergel-sama/common
 
 go 1.18
